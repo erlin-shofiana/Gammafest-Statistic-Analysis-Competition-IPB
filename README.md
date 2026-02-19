@@ -1,4 +1,4 @@
-# 📈 Optimalisasi Kinerja UMKM melalui Analisis Efisiensi dan Legalitas
+# Pemodelan PDRB Konstan Per Kapita Kabypaten Kota di Pulau Kalimantan Menggunakan Geographically Weighted Panel Regression
 
 ## 🏆 Achievement
 🎉 Top 5 - Gammafest SAC (Statistic Analysis Competition) IPB 2024 
